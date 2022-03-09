@@ -1,0 +1,29 @@
+[REQUIRED] Name: Victor Ojewole
+[REQUIRED] Project Title: Bedside Encourager
+[REQUIRED] Project Stack: Java
+[REQUIRED] GitHub Repo Link: https://github.com/vojewole/Bedside-Encourager
+
+[REQUIRED] Project Description: A place where users could add patients names at a 
+care facility provide details of patient and allow either other patients or other users leave an encouraging for that patient.
+
+[REQUIRED] New Programming Concept(s) I'm Planning to Learn: Many to Many and Bootstrap
+
+[REQUIRED] Week 1 Features (to show at Review during Week 2)
+- CRUD Features
+
+[REQUIRED] Week 2 Features (to show at first office hour/lecture of Week 3)
+- ***Finish CSS work (could be Bootstrap or another framework too instead of CSS)***
+- Making post using many to many
+
+[REQUIRED] Product Backlog (If I have more time after completing my MVP, I'll start to work on...)
+- Unique validation making sure no name is repeated
+
+
+
+
+
+
+
+
+
+
